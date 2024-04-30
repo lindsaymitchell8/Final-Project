@@ -3,7 +3,7 @@ To access and utilize the script, open the "mitchell_final_project_script.R" fil
 This is my final project for Social Statistics where I analyzed music by Luke Combs. I looked at the energy level, main topics, song length, and tempo by bpm for each song to come to a conclusion. 
 
 ## **Data**
-The data used for the analyes was collected by shuffling Luke Combs' discography and using arandom sample of numerous songs that played. I analyzed how the energy level compared to song length, tempo by bpm, and the main topic the song was about. Each unit of analysis was one song and 30 observations were collected. The type of sampling strategy was convenience sampling.
+The data used for the analysis was collected by shuffling Luke Combs' discography and using a random sample of numerous songs that played. I analyzed how the energy level compared to song length, tempo by bpm, and the main topic the song was about. Each unit of analysis was one song and 30 observations were collected. The type of sampling strategy was convenience sampling.
 
 I gathered the data by first, shuffling his music on Spotify and recording the first 30 songs that played. To find the song length I would use the time spotify provided. Along with that to find the bpm I used a website on google that translated his songs into bpm. To find the main topics I analyzed the lyrics to come to a conclusion on what the song was about. Lastly, for energy level I listened to each song and recorded my thoughts on how the song made me feel and if I would be able to dance to each song or if it was more of a stand/swaying song. 
 
